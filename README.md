@@ -2,7 +2,9 @@
 Métodos de selección de características
 
 
-Filtrar métodos
+Métodos de filtro.
+
+
 Los métodos de filtro son el tipo más simple de método de selección de características. Funcionan filtrando características antes de la construcción del modelo en función de algunos criterios.
 
 
